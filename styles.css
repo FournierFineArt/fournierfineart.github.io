@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+.headerNav {
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+    margin-bottom: 100px;
+}
+
+.photoGridItem {
+    background-color: darkgrey;
+    width: 200px;
+    height: 350px;
+    margin: 10px;
+}

@@ -18,3 +18,12 @@ html {
     height: 350px;
     margin: 10px;
 }
+
+.imgGrid {
+    margin: 10px;
+    max-width: 30%;
+}
+
+.imgGrid>img {
+    width: 100%;
+}
